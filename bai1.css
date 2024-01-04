@@ -1,0 +1,32 @@
+.abc{
+    color: #fff;
+    text-align: center;
+    line-height: 155px;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   gap: 10px;
+   height: 100vh;
+
+.a{
+    background-color: red;
+    width: 200px;
+    height:200px;
+    border-radius: 15px;
+}
+
+.b{
+    background-color: rgb(50, 31, 134);
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+}
+
+.c{
+    background-color: red;
+    width: 200px;
+    height:200px;
+    border-radius: 15px;
+
+}
