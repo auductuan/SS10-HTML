@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: 2px solid #dadada;
+    margin: 20px;
+    
+}
+.item1 {
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+    background-color:orange;
+    text-align: center;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 35px;
+    width: 30vh;
+}
+.item2 {
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+    background-color:orange;
+    text-align: center;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 35px;
+    width: 100vh;
+}
+.item3 {
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+    background-color:orange;
+    text-align: center;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 35px;
+    width: 90vh;
+}
+.item4 {
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+    background-color:orange;
+    text-align: center;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 35px;
+    width: 10vh;
+}
+.item5 {
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+    background-color:orange;
+    text-align: center;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 35px;
+    width: 50vh;
+}
+.item6 {
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+    background-color:orange;
+    text-align: center;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 35px;
+    width: 60vh;
+}
+.item8 {
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+    background-color:orange;
+    text-align: center;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 35px;
+    width: 40vh;
+}
+.item7 {
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+    background-color:orange;
+    text-align: center;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 35px;
+    width: 80vh;
+}
